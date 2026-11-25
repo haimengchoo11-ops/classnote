@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClassNote · 三语学习中心 | Trilingual Study Hub</title>
+<meta name="description" content="六门大学课程的中英马三语对照学习网站：章节梳理、核心要点、术语总表、概念图解与原始资料一站式调用。">
+<link rel="stylesheet" href="assets/css/app.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>">
+</head>
+<body data-lang="tri">
+<div class="app">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="logo"><span class="mark">CN</span><span>ClassNote</span></div>
+      <div class="sub">三语对照 · Trilingual · Tiga Bahasa</div>
+    </div>
+    <div class="side-search">
+      <input id="globalsearch" type="search" placeholder="搜索 / Search / Cari…  (按 / 聚焦)" autocomplete="off">
+    </div>
+    <nav class="nav" id="nav"></nav>
+    <div class="side-foot">
+      <a href="#/terms">📖 <span data-i18n="glossary">Glossary</span></a>
+      <a href="#/materials">🗂 <span data-i18n="materials">Materials</span></a>
+      <a href="#/quiz">📝 <span data-i18n="quiz">Quiz</span></a>
+      <a href="#/code">⌨️ <span data-i18n="codelab">Code</span></a>
+    </div>
+  </aside>
+
+  <div class="main">
+    <header class="topbar">
+      <button class="icon-btn menu-btn" id="menubtn" title="Menu">☰</button>
+      <div class="crumbs" id="crumbs"></div>
+      <div class="tools">
+        <div class="seg" id="langseg"></div>
+        <button class="icon-btn" onclick="window.print()" title="Print / PDF">🖨</button>
+        <button class="icon-btn" id="themebtn" title="Theme">☾</button>
+      </div>
+    </header>
+    <main class="content" id="view"></main>
+  </div>
+</div>
+
+<!-- data -->
+<script src="data/subjects.js"></script>
+<script src="data/raw/oop.js"></script>
+<script src="data/raw/cs.js"></script>
+<script src="data/raw/dcn.js"></script>
+<script src="data/raw/os.js"></script>
+<script src="data/raw/sadm.js"></script>
+<script src="data/raw/vb.js"></script>
+<script src="data/oop.js"></script>
+<script src="data/cs.js"></script>
+<script src="data/dcn.js"></script>
+<script src="data/os.js"></script>
+<script src="data/sadm.js"></script>
+<script src="data/vb.js"></script>
+<!-- code lab exercises -->
+<script src="data/code/oop.js"></script>
+<script src="data/code/vb.js"></script>
+<!-- quiz bank -->
+<script src="data/quiz/oop.js"></script>
+<script src="data/quiz/cs.js"></script>
+<script src="data/quiz/dcn.js"></script>
+<script src="data/quiz/os.js"></script>
+<script src="data/quiz/sadm.js"></script>
+<script src="data/quiz/vb.js"></script>
+<!-- engine -->
+<script src="assets/js/diagram.js"></script>
+<script src="assets/js/quiz.js"></script>
+<script src="assets/js/code.js"></script>
+<script src="assets/js/app.js"></script>
+<noscript><p style="padding:30px">This site needs JavaScript enabled.</p></noscript>
+</body>
+</html>

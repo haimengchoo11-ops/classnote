@@ -1,0 +1,454 @@
+{
+ "oop": [
+  {
+   "id": "oop-01",
+   "num": 1,
+   "title": "Introduction to Object-Oriented Analysis and Design",
+   "file": "00p/SESSION 20262027_CHAPTER1.pptx",
+   "count": 29,
+   "chars": 12330
+  },
+  {
+   "id": "oop-02",
+   "num": 2,
+   "title": "Object-Oriented Design Using UML",
+   "file": "00p/SESSION 20262027_CHAPTER2 (2).pptx",
+   "count": 36,
+   "chars": 14745
+  },
+  {
+   "id": "oop-03",
+   "num": 3,
+   "title": "Java Basics: Control Statements, Methods and Arrays",
+   "file": "00p/SESSION 20262027_CHAPTER3 (6).pptx",
+   "count": 56,
+   "chars": 23209
+  },
+  {
+   "id": "oop-04",
+   "num": 4,
+   "title": "Classes and Objects",
+   "file": "00p/SESSION 20262027_CHAPTER4.pptx",
+   "count": 44,
+   "chars": 22420
+  },
+  {
+   "id": "oop-05",
+   "num": 5,
+   "title": "Strings",
+   "file": "00p/SESSION 20262027_CHAPTER5.pptx",
+   "count": 33,
+   "chars": 18609
+  },
+  {
+   "id": "oop-06",
+   "num": 6,
+   "title": "Inheritance and Polymorphism",
+   "file": "00p/SESSION 20262027_CHAPTER6.pptx",
+   "count": 37,
+   "chars": 18910
+  },
+  {
+   "id": "oop-07",
+   "num": 7,
+   "title": "Abstract Classes and Interfaces",
+   "file": "00p/SESSION 20262027_CHAPTER7.pptx",
+   "count": 23,
+   "chars": 9909
+  },
+  {
+   "id": "oop-08",
+   "num": 8,
+   "title": "Introduction to Parallel Programming",
+   "file": "00p/SESSION 20262027_CHAPTER8 (2).pptx",
+   "count": 10,
+   "chars": 5233
+  }
+ ],
+ "cs": [
+  {
+   "id": "cs-01",
+   "num": 1,
+   "title": "Introduction to Computer Security",
+   "file": "cs/CHAPTER 1 - INTRODUCTION.pdf",
+   "count": 51,
+   "chars": 19105
+  },
+  {
+   "id": "cs-02",
+   "num": 2,
+   "title": "Cryptography",
+   "file": "cs/CHAPTER 2 - CRYPTOGRAPHY.pdf",
+   "count": 88,
+   "chars": 30505
+  },
+  {
+   "id": "cs-03",
+   "num": 3,
+   "title": "Program Security",
+   "file": "cs/CHAPTER 3 - PROGRAM SECURITY.pdf",
+   "count": 75,
+   "chars": 28389
+  },
+  {
+   "id": "cs-04",
+   "num": 4,
+   "title": "Security in Operating Systems",
+   "file": "cs/CHAPTER 4 - SECURITY IN OS.pdf",
+   "count": 56,
+   "chars": 22765
+  },
+  {
+   "id": "cs-05",
+   "num": 5,
+   "title": "Database Security",
+   "file": "cs/CHAPTER 5 - DATABASE SECURITY.pdf",
+   "count": 46,
+   "chars": 36562
+  },
+  {
+   "id": "cs-06",
+   "num": 6,
+   "title": "Security in Networks",
+   "file": "cs/CHAPTER 6 - SECURITY IN NETWORKS.pdf",
+   "count": 70,
+   "chars": 51706
+  },
+  {
+   "id": "cs-07",
+   "num": 7,
+   "title": "Administering Security",
+   "file": "cs/CHAPTER 7 - ADMINISTERING SECURITY.pdf",
+   "count": 34,
+   "chars": 32106
+  },
+  {
+   "id": "cs-08",
+   "num": 8,
+   "title": "Protecting Programs and Data",
+   "file": "cs/CHAPTER 8 - PROTECTING PROGRAMS AND DATA.pdf",
+   "count": 71,
+   "chars": 24141
+  }
+ ],
+ "dcn": [
+  {
+   "id": "dcn-01",
+   "num": 1,
+   "title": "Introduction to Data and Networking Communication",
+   "file": "dcn/CHAPTER 1 2627 1 (1).pdf",
+   "count": 19,
+   "chars": 6629
+  },
+  {
+   "id": "dcn-02",
+   "num": 2,
+   "title": "Data Transmission",
+   "file": "dcn/CHAPTER 2 2627 1 (2).pdf",
+   "count": 51,
+   "chars": 13062
+  },
+  {
+   "id": "dcn-03",
+   "num": 3,
+   "title": "Error Detection and Correction",
+   "file": "dcn/CHAPTER 3 2627 1 (1).pdf",
+   "count": 52,
+   "chars": 16868
+  },
+  {
+   "id": "dcn-04",
+   "num": 4,
+   "title": "Transmission Medium",
+   "file": "dcn/CHAPTER 4 2627 1.pdf",
+   "count": 41,
+   "chars": 10193
+  },
+  {
+   "id": "dcn-05",
+   "num": 5,
+   "title": "Introduction to Computer Network",
+   "file": "dcn/CHAPTER 5 2627 1.pdf",
+   "count": 31,
+   "chars": 8821
+  },
+  {
+   "id": "dcn-06",
+   "num": 6,
+   "title": "Reference Models (OSI and TCP/IP)",
+   "file": "dcn/CHAPTER 6 2627 1.pdf",
+   "count": 25,
+   "chars": 6700
+  },
+  {
+   "id": "dcn-07",
+   "num": 7,
+   "title": "Networking and Internetworking Devices",
+   "file": "dcn/CHAPTER 7 2627 1.pdf",
+   "count": 24,
+   "chars": 6269
+  },
+  {
+   "id": "dcn-08",
+   "num": 8,
+   "title": "Data Link Layer",
+   "file": "dcn/CHAPTER 8 2627 1.pdf",
+   "count": 40,
+   "chars": 15418
+  },
+  {
+   "id": "dcn-09",
+   "num": 9,
+   "title": "Network Layer",
+   "file": "dcn/CHAPTER 9 2627 1.pdf",
+   "count": 45,
+   "chars": 15262
+  },
+  {
+   "id": "dcn-10",
+   "num": 10,
+   "title": "Transport Layer",
+   "file": "dcn/CHAPTER 10 2627 1.pdf",
+   "count": 29,
+   "chars": 4156
+  },
+  {
+   "id": "dcn-11",
+   "num": 11,
+   "title": "Application Layer",
+   "file": "dcn/CHAPTER 11 2627 1.pdf",
+   "count": 25,
+   "chars": 5077
+  }
+ ],
+ "os": [
+  {
+   "id": "os-01",
+   "num": 1,
+   "title": "Introduction to Operating Systems",
+   "file": "os/CHAPTER 1 DDWD 2663.pptx",
+   "count": 77,
+   "chars": 27639
+  },
+  {
+   "id": "os-02",
+   "num": 2,
+   "title": "Computer System and OS Structures",
+   "file": "os/CHAPTER 2 DDWD 2663.pptx",
+   "count": 64,
+   "chars": 24698
+  },
+  {
+   "id": "os-03",
+   "num": 3,
+   "title": "Process Management: Processes and Threads",
+   "file": "os/CHAPTER 3 DDWD 2663.pptx",
+   "count": 81,
+   "chars": 27513
+  },
+  {
+   "id": "os-04",
+   "num": 4,
+   "title": "Process Management: CPU Scheduling",
+   "file": "os/CHAPTER 4 DDWD 2663.pptx",
+   "count": 81,
+   "chars": 25297
+  },
+  {
+   "id": "os-05",
+   "num": 5,
+   "title": "Process Synchronization",
+   "file": "os/CHAPTER 5 DDWD 2663.pptx",
+   "count": 61,
+   "chars": 20892
+  },
+  {
+   "id": "os-06",
+   "num": 6,
+   "title": "Deadlocks",
+   "file": "os/CHAPTER 6 DDWD 2663.pptx",
+   "count": 45,
+   "chars": 14119
+  },
+  {
+   "id": "os-07",
+   "num": 7,
+   "title": "Memory Management",
+   "file": "os/CHAPTER 7 DDWD 2663.pptx",
+   "count": 67,
+   "chars": 22468
+  },
+  {
+   "id": "os-08",
+   "num": 8,
+   "title": "Virtual Memory",
+   "file": "os/CHAPTER 8 DDWD 2663.pptx",
+   "count": 54,
+   "chars": 18217
+  },
+  {
+   "id": "os-09",
+   "num": 9,
+   "title": "File-System and Device Management",
+   "file": "os/CHAPTER 9 DDWD 2663.pptx",
+   "count": 60,
+   "chars": 15442
+  }
+ ],
+ "sadm": [
+  {
+   "id": "sadm-01",
+   "num": 1,
+   "title": "Systems Analysis Fundamentals",
+   "file": "sadm/CHAP1_SADM.pdf",
+   "count": 45,
+   "chars": 24141
+  },
+  {
+   "id": "sadm-02",
+   "num": 2,
+   "title": "Business Justification",
+   "file": "sadm/CHAP2_SADM.pdf",
+   "count": 41,
+   "chars": 23090
+  },
+  {
+   "id": "sadm-03",
+   "num": 3,
+   "title": "Project Management",
+   "file": "sadm/CHP3_SADM.pdf",
+   "count": 44,
+   "chars": 33599
+  },
+  {
+   "id": "sadm-04",
+   "num": 4,
+   "title": "Requirements Modeling",
+   "file": "sadm/CHP4_SADM.pdf",
+   "count": 45,
+   "chars": 12735
+  },
+  {
+   "id": "sadm-05",
+   "num": 5,
+   "title": "Data and Process Analysis",
+   "file": "sadm/CHP5_SADM.pdf",
+   "count": 45,
+   "chars": 23727
+  },
+  {
+   "id": "sadm-06",
+   "num": 6,
+   "title": "Object Analysis",
+   "file": "sadm/CHP6_SADM revised from me.pdf",
+   "count": 55,
+   "chars": 22820
+  },
+  {
+   "id": "sadm-07",
+   "num": 7,
+   "title": "Options for Development",
+   "file": "sadm/CHP7_SADM.pdf",
+   "count": 47,
+   "chars": 27081
+  },
+  {
+   "id": "sadm-10",
+   "num": 10,
+   "title": "System Construction Planning",
+   "file": "sadm/CHP10_SADM.pptx.pdf",
+   "count": 46,
+   "chars": 24890
+  },
+  {
+   "id": "sadm-11",
+   "num": 11,
+   "title": "Making the System Operational",
+   "file": "sadm/CHAP11_SADM.pdf",
+   "count": 48,
+   "chars": 27020
+  },
+  {
+   "id": "sadm-12",
+   "num": 12,
+   "title": "Securing and Supporting the System",
+   "file": "sadm/CHP12_SADM.pptx.pdf",
+   "count": 47,
+   "chars": 25535
+  }
+ ],
+ "vb": [
+  {
+   "id": "vb-01",
+   "num": 1,
+   "title": "Introduction to Visual Basic 2010",
+   "file": "vb/Bradley_vb10_ppt_ch01 (1).pdf",
+   "count": 36,
+   "chars": 10984
+  },
+  {
+   "id": "vb-02",
+   "num": 2,
+   "title": "User Interface Design",
+   "file": "vb/Bradley_vb10_ppt_ch02.pdf",
+   "count": 36,
+   "chars": 9846
+  },
+  {
+   "id": "vb-03",
+   "num": 3,
+   "title": "Variables, Constants, and Calculations",
+   "file": "vb/Bradley_vb10_ppt_ch03.pdf",
+   "count": 44,
+   "chars": 14538
+  },
+  {
+   "id": "vb-04",
+   "num": 4,
+   "title": "Decisions and Conditions",
+   "file": "vb/bradley_vb10_ppt_ch04.pdf",
+   "count": 37,
+   "chars": 11571
+  },
+  {
+   "id": "vb-05",
+   "num": 5,
+   "title": "Menus, Dialog Boxes, Sub and Function Procedures",
+   "file": "vb/bradley_vb10_ppt_ch05.pdf",
+   "count": 29,
+   "chars": 10148
+  },
+  {
+   "id": "vb-06",
+   "num": 6,
+   "title": "Multiform Projects",
+   "file": "vb/bradley_vb10_ppt_ch06.pdf",
+   "count": 37,
+   "chars": 11340
+  },
+  {
+   "id": "vb-07",
+   "num": 7,
+   "title": "Lists, Loops, and Printing",
+   "file": "vb/bradley_vb10_ppt_ch07.pdf",
+   "count": 44,
+   "chars": 14909
+  },
+  {
+   "id": "vb-08",
+   "num": 8,
+   "title": "Arrays and Collections",
+   "file": "vb/bradley_vb10_ppt_ch08.pptx",
+   "count": 40,
+   "chars": 10657
+  },
+  {
+   "id": "vb-09",
+   "num": 9,
+   "title": "Database Applications",
+   "file": "vb/bradley_vb10_ppt_ch09.pdf",
+   "count": 34,
+   "chars": 10760
+  }
+ ]
+}
