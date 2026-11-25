@@ -588,4 +588,9 @@ html{-webkit-text-size-adjust:100%; text-size-adjust:100%}
   .mat-row{flex-wrap:wrap; row-gap:9px}
   .mat-row .mid{flex:1 1 calc(100% - 47px)}
   .mat-row .btn{padding:5px 11px; font-size:12.5px}
+
+  /* chapter rows: title gets the full width, tags go on a second line */
+  .chap-row{flex-wrap:wrap; row-gap:7px}
+  .chap-row .mid{flex:1 1 calc(100% - 50px)}
+  .chap-row .tags{flex:1 1 100%; padding-left:50px}
 }
